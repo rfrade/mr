@@ -2,13 +2,10 @@
 % Please edit documentation in R/get_bitcoin_price.R
 \name{get_bitcoin_price}
 \alias{get_bitcoin_price}
-\title{This returns the current price of bitcoins in dollars}
+\title{This returns the current price of bitcoins in US dollars}
 \usage{
 get_bitcoin_price()
 }
 \description{
-This returns the current price of bitcoins in dollars
-}
-\examples{
-get_bitcoin_price()
+This returns the current price of bitcoins in US dollars
 }
