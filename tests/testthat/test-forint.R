@@ -1,4 +1,4 @@
 
 test_that("test forint function", {
-  expect_equal(1, 1)
+  expect_equal(forint(42), "42 HUF")
 })
