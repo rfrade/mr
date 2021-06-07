@@ -9,6 +9,7 @@ Authors@R:
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Containts get_exchange_rate function that returns exchanges rates, get_bitcoin_price that return BTC price in dollar and forint that formats forint output.
 License: use_mit_license()
+Imports: binancer, data.table, httr, logger, scales
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
