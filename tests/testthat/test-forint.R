@@ -1,4 +1,4 @@
 
-test_that("str_length is number of characters", {
+test_that("test forint function", {
   expect_equal(1, 1)
 })
