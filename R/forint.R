@@ -2,7 +2,7 @@
 #' @param numeric value to be formatted
 #' @importFrom scales dollar
 #' @export 
-#' @examples forint(10) -> 10 HUF
+#' @example forint(10) -> 10 HUF
 forint <- function(x){
   scales::dollar(x, prefix = '', suffix = ' HUF')
 }

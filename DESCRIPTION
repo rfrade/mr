@@ -7,9 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "martins_rafael@student.ceu.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Containts get_exchange_rate function that returns exchanges rates,
-get_bitcoin_price that return BTC price in dollar and forint that formats forint
-output.
+Description: Containts get_exchange_rate function that returns exchanges rates, get_bitcoin_price that return BTC price in dollar and forint that formats forint output.
 License: use_mit_license()
 Encoding: UTF-8
 LazyData: true
