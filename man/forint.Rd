@@ -12,6 +12,3 @@ forint(x)
 \description{
 This function adds HUF at the end of the value passed as argument
 }
-\examples{
-forint(10) -> 10 HUF
-}

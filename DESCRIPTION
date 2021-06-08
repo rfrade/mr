@@ -1,15 +1,15 @@
 Package: mr
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Provides functions to get criptocurrency and exchange rates
+Version: 1.0.0
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Rafael",
+           family = "Frade",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "martins_rafael@student.ceu.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Description: Containts get_exchange_rate function that returns exchanges rates, get_bitcoin_price that return BTC price in dollar and forint that formats forint output.
+License: use_mit_license()
+Imports: binancer, data.table, httr, logger, scales
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
